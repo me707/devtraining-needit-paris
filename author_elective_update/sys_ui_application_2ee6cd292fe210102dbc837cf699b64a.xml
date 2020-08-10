@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>myLabel</name>
+        <order/>
+        <roles>x_58872_needit.mytable_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 10:47:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2ee6cd292fe210102dbc837cf699b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myLabel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_2ee6cd292fe210102dbc837cf699b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 10:47:19</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>49c939a5db9e40502f68c59705961956</instance_id>
+        <instance_name>dev96718</instance_name>
+        <name>sys_ui_application_2ee6cd292fe210102dbc837cf699b64a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>myLabel</name><order/><roles>x_58872_needit.mytable_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-10 10:47:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2ee6cd292fe210102dbc837cf699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>myLabel</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_application_2ee6cd292fe210102dbc837cf699b64a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-10 10:47:19</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1316780500</payload_hash>
+        <record_name>myLabel</record_name>
+        <reverted_from/>
+        <source>637a08652f2210102dbc837cf699b67c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 10:47:19</sys_created_on>
+        <sys_id>36e6cd292fe210102dbc837cf699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173d7fb53b00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 10:47:19</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>7ee6cd29b0e210108466a6a69370c34c</update_guid>
+        <update_guid_history>7ee6cd29b0e210108466a6a69370c34c:-1316780500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 10:51:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>1e6dd00ccd244b6a8f9efca82a9dfc39</sys_id>
+        <sys_metadata>2ee6cd292fe210102dbc837cf699b64a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myLabel</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_2ee6cd292fe210102dbc837cf699b64a</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_2ee6cd292fe210102dbc837cf699b64a">36e6cd292fe210102dbc837cf699b64d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 10:51:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
