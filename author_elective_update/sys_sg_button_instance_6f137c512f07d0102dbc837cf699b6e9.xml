@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Update Short Description">801758d92f83d0102dbc837cf699b691</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Update Short Description</label>
+        <location>top</location>
+        <name>Update Short Description</name>
+        <order>20</order>
+        <parent>04a6a2202f0750102dbc837cf699b686</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 11:13:43</sys_created_on>
+        <sys_id>6f137c512f07d0102dbc837cf699b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Short Description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6f137c512f07d0102dbc837cf699b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 11:13:43</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6f137c512f07d0102dbc837cf699b6e9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>49c939a5db9e40502f68c59705961956</instance_id>
+        <instance_name>dev96718</instance_name>
+        <name>sys_sg_button_instance_6f137c512f07d0102dbc837cf699b6e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Update Short Description">801758d92f83d0102dbc837cf699b691</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Update Short Description</label><location>top</location><name>Update Short Description</name><order>20</order><parent>04a6a2202f0750102dbc837cf699b686</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-03 11:13:43</sys_created_on><sys_id>6f137c512f07d0102dbc837cf699b6e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Short Description</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_6f137c512f07d0102dbc837cf699b6e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-03 11:13:43</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=6f137c512f07d0102dbc837cf699b6e9"/></record_update>]]></payload>
+        <payload_hash>66578856</payload_hash>
+        <record_name>Update Short Description</record_name>
+        <reverted_from/>
+        <source>7a82ddcf2ff6dc102dbc837cf699b6dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 11:13:43</sys_created_on>
+        <sys_id>27137c512f07d0102dbc837cf699b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17453ac20b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 11:13:43</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>6f137c512807d010e021fcd5b0b9e0eb</update_guid>
+        <update_guid_history>6f137c512807d010e021fcd5b0b9e0eb:66578856</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 11:14:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>670b41fb92334aee984bdab378d48119</sys_id>
+        <sys_metadata>6f137c512f07d0102dbc837cf699b6e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Short Description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_6f137c512f07d0102dbc837cf699b6e9</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_6f137c512f07d0102dbc837cf699b6e9">27137c512f07d0102dbc837cf699b6ec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 11:14:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
