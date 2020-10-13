@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6a6a03422f7794102dbc837cf699b62a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>dbad9a4a2fb394102dbc837cf699b69e</answer>
+        <condition table="var__m_sys_decision_input_12dd960e2fb394102dbc837cf699b673">u_request_type=hr^EQ<item display_value="Human Resources" endquery="false" field="u_request_type" goto="false" newquery="false" operator="=" or="false" value="hr"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Assignee Category Decision">12dd960e2fb394102dbc837cf699b673</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_12dd960e2fb394102dbc837cf699b673</input_table>
+        <label>Human Resources</label>
+        <order>600</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 12:57:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6a6a03422f7794102dbc837cf699b62a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Human Resources</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_decision_question_6a6a03422f7794102dbc837cf699b62a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:01:37</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 12:57:50</sys_created_on>
+        <sys_id>f68a034e2f3794102dbc837cf699b60a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Human Resources</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_f68a034e2f3794102dbc837cf699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:01:37</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>
